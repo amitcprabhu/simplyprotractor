@@ -1,11 +1,11 @@
 # simplyprotractor
 
-<li>Prerequisite</li>
-  javascript
-    introduction 
-    nodejs
-    ide
-    npm and package manager
+<ul><li>Prerequisite</li>
+  <ul><li>javascript</li>
+    <li>introduction </li>
+    <li>nodejs</li>
+    <li>ide</li>
+    <li>npm and package manager</li></ul></ul>
     
   selenium webdriver
     introduction
